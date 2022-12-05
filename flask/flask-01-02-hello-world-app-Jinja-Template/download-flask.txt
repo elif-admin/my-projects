@@ -1,0 +1,8 @@
+pyhton flask i yuklemek icin:
+
+vs code da bash terminaline gel.bu komutlari sirayla yazalim:
+1- pip3 install flask 
+2- pip3 install --upgrade pip
+3- pip3 list
+4- eger hata verise python.exe -m pip install --upgrade pip bu komutu yazalim
+
